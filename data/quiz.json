@@ -1,0 +1,405 @@
+{
+    "data": [
+        {
+            "id": "GKfrCbCN5f",
+            "title": "What is the full meaning of WHO?",
+            "answers": [
+                "World Health Organ",
+                "World Health Organization",
+                "World Health Organ",
+                "Non of the above"
+            ],
+            "correct_answer": "World Health Organization"
+        },
+        {
+            "id": "cQC0Y2Dmhu",
+            "title": "What is the Royal ambassadors philosophy?",
+            "answers": [
+                "To be well informed responsible follower.",
+                "It is easier to mould boys than to mend men",
+                "Glenn Quagmire",
+                "Break out"
+            ],
+            "correct_answer": "It is easier to mould boys than to mend men"
+        },
+        {
+            "id": "DFfAzImRk6",
+            "title": "National ambassador at large?",
+            "answers": [
+                "Dr. Soye Peniel Asawo",
+                "Rev. Dr. Israel Adelani Akanji",
+                "Rev. David Oke",
+                "Rev. Daniel Oke"
+            ],
+            "correct_answer": "Dr. Soye Peniel Asawo"
+        },
+        {
+            "id": "RY9qUoigEA",
+            "title": "National ambassador-in-chief?",
+            "answers": [
+                "Dr. Soye Peniel Asawo",
+                "Rev. David Oke",
+                "Rev. Yusuf T. Gwadah",
+                "Dr. Israel Adelani Akanji"
+            ],
+            "correct_answer": "Rev. Yusuf T. Gwadah"
+        },
+        {
+            "id": "qsLWiq531a",
+            "title": "Who started Baptist work in Nigeria and what Year?",
+            "answers": [
+                "Thomas Jefferson Bowen, 1850",
+                "Thomas Michaelson Bowen, 1850",
+                "Thomas Jefferson Bowen 1960",
+                "Thomas Michaelson Bowen, 1850"
+            ],
+            "correct_answer": "Thomas Jefferson Bowen, 1850"
+        },
+        {
+            "id": "WbxoPIWfyk",
+            "title": "Who is the composer of the King's Business?",
+            "answers": [
+                "Harold D. Wicks",
+                "Meg Griffin",
+                "E.T. Cassel",
+                "Joseph Eddison"
+            ],
+            "correct_answer": "E.T. Cassel"
+        },
+        {
+            "id": "MUfeMhv3n8",
+            "title": "What is the name of the University owned by NBC?",
+            "answers": [
+                "Covenant University",
+                "Bowen University Iwo",
+                "Babcok University",
+                "Non of the above"
+            ],
+            "correct_answer": "Bowen University Iwo"
+        },
+        {
+            "id": "c2Ocp9ZvN2",
+            "title": "What wrote the forward of the new R.A manual?",
+            "answers": [
+                "Rev. Dr. Festus A.S. Akinola",
+                "Rev. Soye Peniel Asawo",
+                "Glenn Quagmire",
+                "Akira Yoshida"
+            ],
+            "correct_answer": "Rev. Dr. Festus A.S. Akinola"
+        },
+        {
+            "id": "ypcGVPrhsg",
+            "title": "In what year was the present MMU eatablished?",
+            "answers": ["1977", "1966", "1955", "1979"],
+            "correct_answer": "1977"
+        },
+        {
+            "id": "gC3jrDwEYk",
+            "title": "Where was the current R.A manual? published",
+            "answers": ["Ibadan, Oyo", "Osun", "Lagos", "Akure, Ondo"],
+            "correct_answer": "Ibadan, Oyo"
+        },
+        {
+            "id": "csOEYs6zXn",
+            "title": "How many senatorial districts does Nigeria have?",
+            "answers": ["107", "108", "109", "110"],
+            "correct_answer": "109"
+        },
+        {
+            "id": "cyqZYE8DIK",
+            "title": "Who is the director of Baptist world alliance?",
+            "answers": [
+                "Dn. Philip Slaboh",
+                "Hon. Dawari George",
+                "Bro. Ayoola Badejo",
+                "Dr. Justus Jonah"
+            ],
+            "correct_answer": "Bro. Ayoola Badejo"
+        },
+        {
+            "id": "CfQnf3lH56",
+            "title": "How many local Goverments does Nigeria have",
+            "answers": ["744", "774", "447", "674"],
+            "correct_answer": "774"
+        },
+        {
+            "id": "e3dDjEEWl0",
+            "title": "Who is the President of the Baptist World alliance?",
+            "answers": [
+                "Hon. Dr. Dawari I. George",
+                "Dn. Philip Slaboh",
+                "Dr. Ayoola Badejo",
+                "Dn. Paul Omatseye"
+            ],
+            "correct_answer": "Hon. Dr. Dawari I. George"
+        },
+        {
+            "id": "wKuUTrvMrF",
+            "title": "Who is the President of Christian Association of Nigeria",
+            "answers": [
+                "Dn. Philip Slaboh",
+                "Rev. Daniel Okoh",
+                "Dn. Paul Omatseye",
+                "Rev. Dr. Justus Jonah"
+            ],
+            "correct_answer": "Rev. Daniel Okoh"
+        },
+        {
+            "id": "SlYDds3o7i",
+            "title": "How many conferences are there in Nigeria Baptist Convention?",
+            "answers": ["43", "34", "24", "36"],
+            "correct_answer": "34"
+        },
+        {
+            "id": "SlYDdi3o7F",
+            "title": "Who is the Mission officer of the MMU",
+            "answers": [
+                "Coun. Ayo Adekunle",
+                "Coun. Festus A.S. Akinola",
+                "Coun. Dawari I George",
+                "Coun. Bitebo Eregoba"
+            ],
+            "correct_answer": "Coun. Ayo Adekunle"
+        },
+        {
+            "id": "SlYDds3oyF",
+            "title": "How many Associations are there in Nigeria Baptist Convention?",
+            "answers": ["516", "615", "561", "361"],
+            "correct_answer": "516"
+        },
+        {
+            "id": "SlYDdh3o7F",
+            "title": "When is Democracy day in Nugeria?",
+            "answers": ["1 October", "12 June", "12 May", "21 June"],
+            "correct_answer": "12 June"
+        },
+        {
+            "id": "SlYDds3o7F",
+            "title": "When did Nigeria gain independence?",
+            "answers": ["1 October", "12 June", "12 May", "21 June"],
+            "correct_answer": "1 October"
+        },
+        {
+            "id": "SlYtds3o7F",
+            "title": "What is the MMU Theme for 2024",
+            "answers": [
+                "Break Out",
+                "Wonders Without Numbers",
+                "Exceeding Grace",
+                "Wonders without end"
+            ],
+            "correct_answer": "Wonders Without Numbers"
+        },
+        {
+            "id": "SlyDds3o7F",
+            "title": "Who is the speaker of the Nigerian senate?",
+            "answers": [
+                "Tajudeen Abbas",
+                "David Mark",
+                "Olajide Idris",
+                "Godswill Akpabio"
+            ],
+            "correct_answer": "Godswill Akpabio"
+        },
+        {
+            "id": "SluYds3o7F",
+            "title": "Who is the speaker of the Nigerian house of representatives?",
+            "answers": [
+                "Tajudeen Abbas",
+                "David Mark",
+                "Olajide Idris",
+                "Godswill Akpabio"
+            ],
+            "correct_answer": "Tajudeen Abbas"
+        },
+        {
+            "id": "SliDds3o7F",
+            "title": "Largest country in Europe by area?",
+            "answers": ["Ukraine", "Russia", "Spain", "Italy"],
+            "correct_answer": "Russia"
+        },
+        {
+            "id": "SlYods3o7F",
+            "title": "Who is the prime minister of Israel?",
+            "answers": [
+                "Isaac Herzog",
+                "Olaf Netanyahu",
+                "Isaac Netanyahu",
+                "Benjamin Netanyahu"
+            ],
+            "correct_answer": "Benjamin Netanyahu"
+        },
+        {
+            "id": "SlYlds3o7F",
+            "title": "Who is the prime minister of UK?",
+            "answers": [
+                "Vladimir Putin",
+                "Boris Johnson",
+                "Joe Biden",
+                "Denis Shmyhal"
+            ],
+            "correct_answer": "Boris Johnson"
+        },
+        {
+            "id": "SkYlds3o7F",
+            "title": "Who is the current R.A Marshl?",
+            "answers": [
+                "Coun. Dawari George",
+                "Coun. Festus A.S. Akinola",
+                "Coun. Ayo Ayekunle",
+                "Coun. Bitebo Eregoba"
+            ],
+            "correct_answer": "Coun. Bitebo Eregoba"
+        },
+        {
+            "id": "SkYldskkF",
+            "title": "Who was the first R.A Marshall?",
+            "answers": [
+                "Coun. Dawari George",
+                "Coun. Festus A.S. Akinola",
+                "Coun. Ayo Ayekunle",
+                "Coun. Bayo Oyeniyi"
+            ],
+            "correct_answer": "Coun. Bayo Oyeniyi"
+        },
+        {
+            "id": "SkYldspopF",
+            "title": "Who was the fourth R.A Marshall?",
+            "answers": [
+                "Coun. Dawari George",
+                "Coun. Festus A.S. Akinola",
+                "Coun. Ayo Ayekunle",
+                "Coun. Bayo Oyeniyi"
+            ],
+            "correct_answer": "Coun. Festus A.S. Akinola"
+        },
+        {
+            "id": "SkYl9997F",
+            "title": "What does BWA mean?",
+            "answers": [
+                "British World Alliance",
+                "Baptist World Alliance",
+                "Baptist World Amalgamation",
+                "Baptiste World Alliance"
+            ],
+            "correct_answer": "Baptist World Alliance"
+        },
+        {
+            "id": "SYllko3o7F",
+            "title": "What dows RANEC mean?",
+            "answers": [
+                "Royal Ambassadors Nigeria Executive Committe",
+                "Royal Ambassadors National Executive Council",
+                "Royal Ambassadors National Executive Committe",
+                "Royal Ambassadors National Exco"
+            ],
+            "correct_answer": "Royal Ambassadors National Executive Committe"
+        },
+        {
+            "id": "SkYlp317F",
+            "title": "What does MMU stand for?",
+            "answers": [
+                "Men's Mission Union",
+                "Men's Missionary Unions",
+                "Men's Missionary Union",
+                "Men's Missionaries Union"
+            ],
+            "correct_answer": "Men's Missionary Union"
+        },
+        {
+            "id": "Skkl6327F",
+            "title": "Who is the Royal Ambassadors National Commandant?",
+            "answers": [
+                "Coun. Ayuba Daniel",
+                "Coun. Oluwaseun Ajayi",
+                "Coun. Wunjir Ninfas",
+                "Coun. Makama Danjuma"
+            ],
+            "correct_answer": "Coun. Ayuba Daniel"
+        },
+        {
+            "id": "SkYdoplo7F",
+            "title": "Who is the Royal Ambassadors National General Secretary?",
+            "answers": [
+                "Coun. Ayuba Daniel",
+                "Coun. Oluwaseun Ajayi",
+                "Coun. Wunjir Ninfas",
+                "Coun. Makama Danjuma"
+            ],
+            "correct_answer": "Coun. Oluwaseun Ajayi"
+        },
+        {
+            "id": "SkYmdkkx7F",
+            "title": "Who is the Royal Ambassadors National Recording Secretary?",
+            "answers": [
+                "Coun. Ayuba Daniel",
+                "Coun. Efeturi Kori-Siakpere",
+                "Coun. Wunjir Ninfas",
+                "Coun. Makama Danjuma"
+            ],
+            "correct_answer": "Coun. Efeturi Kori-Siakpere"
+        },
+        {
+            "id": "Skkkud6i3x7F",
+            "title": "What is the text for WONDERS WITHOUT NUMBERS 2024?",
+            "answers": ["John 9:10", "John 10:9", "Job 9:10", "Job 10:9"],
+            "correct_answer": "Job 9:10"
+        },
+        {
+            "id": "Skuyfuhx7F",
+            "title": "What is the topic for Christ Ambassadors, January",
+            "answers": [
+                "THE WONDERFUL GOD",
+                "GOD'S WONDER AT CREATION",
+                "GOD'S WONDER THROUGH REDEMPTION",
+                "GOD'S UNFATHOMABLE WONDERS FROM THE OLD TESTAMENT"
+            ],
+            "correct_answer": "THE WONDERFUL GOD"
+        },
+        {
+            "id": "Skdkly7F",
+            "title": "What is the topic for Christ Ambassadors, February",
+            "answers": [
+                "THE WONDERFUL GOD",
+                "GOD'S WONDER AT CREATION",
+                "GOD'S UNFATHOMABLE WONDERS FROM THE OLD TESTAMENT",
+                "GOD'S WONDER THROUGH REDEMPTION"
+            ],
+            "correct_answer": "GOD'S WONDER AT CREATION"
+        },
+        {
+            "id": "Skhhgx7F",
+            "title": "What is the topic for Christ Ambassadors, March",
+            "answers": [
+                "THE WONDERFUL GOD",
+                "GOD'S WONDER AT CREATION",
+                "GOD'S UNFATHOMABLE WONDERS FROM THE OLD TESTAMENT",
+                "GOD'S WONDER THROUGH REDEMPTION"
+            ],
+            "correct_answer": "GOD'S WONDER THROUGH REDEMPTION"
+        },
+        {
+            "id": "Skjkovx7F",
+            "title": "What is the topic for Christ Ambassadors, April",
+            "answers": [
+                "THE WONDERFUL GOD",
+                "GOD'S WONDER AT CREATION",
+                "GOD'S UNFATHOMABLE WONDERS FROM THE OLD TESTAMENT",
+                "GOD'S UNFATHOMABLE WONDERS FROM THE NEW TESTAMENT"
+            ],
+            "correct_answer": "GOD'S WONDER THROUGH REDEMPTION"
+        },
+        {
+            "id": "ljndpx7F",
+            "title": "What is the topic for Christ Ambassadors, May",
+            "answers": [
+                "THE WONDERFUL GOD",
+                "GOD'S WONDER AT CREATION",
+                "GOD'S UNFATHOMABLE WONDERS FROM THE OLD TESTAMENT",
+                "JOB'S DESCRIPTION OF GOD'S WONDER"
+            ],
+            "correct_answer": "JOB'S DESCRIPTION OF GOD'S WONDER"
+        }
+    ]
+}
