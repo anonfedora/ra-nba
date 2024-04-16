@@ -6,7 +6,6 @@ Renders a component that displays a list of answer options for a quiz question.
 @param {string} props.questionId - The ID of the quiz question.
 @returns {JSX.Element} The rendered component.
 */
-
 'use client'
 
 import { useEffect, useState } from 'react'

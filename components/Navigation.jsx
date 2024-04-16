@@ -3,7 +3,6 @@ Renders a navigation component with a sticky header, containing a logo and a lin
 @component
 @returns {JSX.Element} The rendered navigation component.
 */
-
 import Link from 'next/link'
 import { Container } from '.'
 import Image from 'next/image'

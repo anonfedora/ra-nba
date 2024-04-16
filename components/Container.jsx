@@ -8,7 +8,6 @@ Renders a container component that wraps its children with styling and optional 
 @param {any} [props.rest] - Any other props to be spread onto the container element.
 @returns {JSX.Element} The rendered container component.
 */
-
 export const Container = ({
   as: Element = 'div',
   children,
