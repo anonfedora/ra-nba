@@ -1,6 +1,6 @@
 /**
 Renders a navigation component with a sticky header, containing a logo and a link to take a quiz.
-@component
+@components
 @returns {JSX.Element} The rendered navigation component.
 */
 import Link from 'next/link'
